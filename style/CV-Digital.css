@@ -1,0 +1,172 @@
+a:hover{
+    color: #E65634;
+}
+
+.presentacion{
+    float: left;
+    color: #EFEEEB;
+    font-size: 28px;
+    font-family: verdana;
+    background: #E65634;
+    border: 5px solid #E65634;
+    border-radius: 20px;
+    width: 40%;
+    height: 200px;
+    padding: 10px 20px;
+    margin: 40px 20px 40px 20px;
+}
+
+.datos-personales{
+    float: right;
+    font-size: 18px;
+    font-family: verdana;
+    background: #202329;
+    border: 5px solid #202329;
+    border-radius: 20px;
+    width: 45%;
+    height: 250px;
+    padding: 10px 20px;
+    margin: 40px 20px 40px 20px;
+    color: white;
+}
+
+.presentacion p strong{
+    color: black;
+}
+
+.datos-personales ul li strong{
+    color: #E65634;
+}
+
+.datos-personales ul li{
+    list-style: none;
+}
+
+#estudios{
+    float: left;
+    font-size: 18px;
+    font-family: verdana;
+    background: #202329;
+    border: 5px solid #202329;
+    border-radius: 20px;
+    width: 42%;
+    height: 250px;
+    padding: 10px 15px;
+    margin: 40px 20px 40px 20px;
+    color: white;
+}
+
+#estudios ul li{
+    list-style: none;
+}
+
+#estudios ul li strong{
+    color: #E65634;
+}
+
+#formacion{
+    float: right;
+    font-size: 18px;
+    font-family: verdana;
+    background: #202329;
+    border: 5px solid #202329;
+    border-radius: 20px;
+    width: 45%;
+    height: 250px;
+    padding: 10px 20px;
+    margin: 40px 20px 40px 20px;
+    color: white;
+}
+
+#formacion p strong{
+    color: #E65634;
+}
+
+body{
+    background-image: url(fondo3.jpg);
+}
+#foto1{
+    
+    border-radius: 100px;
+    border: 5px solid #202329;
+
+}
+h2{
+    color: white;
+    font: bold;
+    font-style: italic;
+}
+
+
+.encabezado{
+    float: right;
+    padding-top: 20px;
+    padding-right: 50px;
+    display: flex;
+    list-style: none;
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    font-style: unset;
+    color: white;
+}
+
+#navegacion{
+    
+    padding: 10px;
+    margin-top: 25px;
+    clear: both;
+    background: #202329;
+    border: 5px solid #202329;
+    border-radius: 90px;
+    height: 160px;
+}
+
+.boton-volver{
+    float: right;
+    padding-top: 60px;
+    padding-right: 50px;
+    list-style: none;
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    color: white;
+}
+
+.experiencia1{
+    display: inline-flex;
+}
+
+.experiencia{
+    font-size: 18px;
+    font-family: verdana;
+    background: #202329;
+    border: 5px solid #202329;
+    border-radius: 20px;
+    width: 45%;
+    height: 650px;
+    padding: 10px 10px;
+    margin: 10px;
+    color: white;
+}
+
+.experiencia p span{
+    font-size: 15px;
+}
+.experiencia p strong{
+    color: #E65634;
+}
+
+#portfolio{
+    margin-top: 15px;
+    display: inline-flex;
+    width: 100%;
+    border-radius: 50px;
+    background: #202329;
+}
+ .social{
+    margin: 10px;
+    background: #E65634;
+    border-radius: 25px;
+    padding: 15px;
+ }
